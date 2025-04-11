@@ -1,0 +1,26 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "Interface de Login",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clxsilva/login.git"
+  },
+  "author": "Claudio Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clxsilva/login/issues"
+  },
+  "homepage": "https://github.com/clxsilva/login#readme",
+  "devDependencies": {
+    "electron": "^35.1.5"
+  },
+  "dependencies": {
+    "mongoose": "^8.13.2"
+  }
+}
